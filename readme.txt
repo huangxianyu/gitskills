@@ -1,3 +1,12 @@
 Creating a new branch is quick
 
+<<<<<<< HEAD
 Whate are you doing?
+=======
+
+
+
+
+
+Whate are you doing????????????????
+>>>>>>> e21a0c2b7904665bcfd40b1c3416a3a64cc1f0ee
